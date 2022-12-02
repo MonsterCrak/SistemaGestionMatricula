@@ -1,0 +1,22 @@
+
+============
+---CUENTAS---
+============
+
+ID: fabi
+contraseña: fabi
+
+----
+
+ID: dav
+contraseña: dav
+
+----
+
+ID: jeff
+contraseña: jeff
+
+----
+
+ID: jhoset
+contraseña: 1234
